@@ -7,8 +7,10 @@ Hi, I'm Heerav Amin<br><br>I'm a passionate Web Developer specializing in buildi
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/heerav](https://leetcode.com/u/heerav/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:locuscollor@gmail.com) [LinkedIn Profile](https://www.linkedin.com/in/heerav-amin-175640265/)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-heerav--amin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/heerav-amin-175640265/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-heerav-orange?style=flat&logo=leetcode)](https://leetcode.com/u/heerav/) [![Gmail](https://img.shields.io/badge/Gmail-locuscollor%40gmail.com-red?style=flat&logo=gmail)](mailto:locuscollor@gmail.com)
+
 
 
 
