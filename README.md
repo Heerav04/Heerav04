@@ -64,11 +64,34 @@ I specialize in delivering high-performance, scalable solutions that go beyond s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heerav04&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=ffffff" width="48%" />
 </div>
 
-## 🏆 Featured Architectures
+## 🧬 Current Neural Pathways (Terminal)
 
-* **[Vortex AI Assistant](#):** Agentic Desktop AI OS layer handling multimodal autonomous reasoning.
-* **[PADRSS-HSCAI](#):** Healthcare deep learning platform utilizing quantized ResNet50 for diabetic retinopathy screening.
-* **[Customer Intelligence Engine](#):** Advanced data analytics pipeline utilizing K-Means clustering.
+```python
+class Heerav_Amin:
+    def __init__(self):
+        self.role = "AI Developer & Data Scientist"
+        self.current_focus = "Agentic AI & Multimodal Systems"
+        
+    def execute_daily_routine(self):
+        return {
+            "00:00 - 08:00": "System Recharge (Sleep)",
+            "08:00 - 18:00": "Architecting ML Pipelines & Coding",
+            "18:00 - 23:59": "Deep Diving into vLLM & Research Papers"
+        }
+
+    def get_objectives(self):
+        return ["Deploy robust local AI", "Optimize computer vision models", "Scale full-stack AI platforms"]
+
+if __name__ == "__main__":
+    system = Heerav_Amin()
+    system.execute_daily_routine()
+```
+
+## 📈 Activity Pulse
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heerav04&bg_color=0f172a&color=06b6d4&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:a855f7&height=100&section=footer" />
