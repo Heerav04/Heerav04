@@ -10,7 +10,7 @@
 
 <br />
 
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://heerav.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
