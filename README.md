@@ -11,7 +11,7 @@
 <br />
 
 <div align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://heerav.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/heerav-amin-175640265/" target="_blank">
